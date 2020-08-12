@@ -1,0 +1,29 @@
+/* * {
+  outline: 1px solid red;
+}
+
+.row {
+ outline: 1px solid blue;
+}
+
+.container, .container-fluid {
+  outline: 1px solid green;
+} */
+
+.hero-image {
+  background-image: url("./building.jpg");
+  height: 60vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px black;
+}
+
+.bg-house {
+  background-image: url("./house.jpg");
+  height: 10vh;
+  background-size: cover;
+  background-position: center;
+}
